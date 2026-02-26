@@ -1,53 +1,70 @@
-# 👋 Hi, I'm Mahdi Alavi
+<h1 align="center">Mahdi Alavi</h1>
+<h3 align="center">Digital Transformation Leader | Digital Oilfield | AI Strategy in Energy</h3>
 
-## 🛢 Digital Oilfield & AI Data Engineer
-
-Petroleum Engineer working at the intersection of Oil & Gas, 
-Digital Transformation, and AI-ready data systems.
-
-I specialize in transforming legacy oilfield data into structured, 
-scalable architectures that enable advanced analytics, automation, 
-and intelligent decision-making.
+<p align="center">
+Designing intelligent, scalable digital ecosystems for the Oil & Gas industry
+</p>
 
 ---
 
-## 🔍 Current Focus
+## 🛢 About
 
-- Digital Oilfield architecture
-- Oil & Gas data standardization
-- Production & subsurface data pipelines
-- Time-series analytics & forecasting
-- AI-ready data modeling for energy systems
+Petroleum Engineer and Digital Transformation Leader focused on modernizing 
+Oil & Gas operations through data architecture, AI strategy, and 
+enterprise-level system design.
 
----
+I work at the intersection of:
 
-## 🏗 What I Build
+• Digital Oilfield Architecture  
+• AI & Advanced Analytics Strategy  
+• Enterprise Data Modernization  
+• Technical Leadership & Advisory  
 
-- 🛢 Data pipelines for production & well data
-- 📊 Analytics systems for operational optimization
-- 🧠 Feature-engineered datasets for AI models
-- 🔄 Structured ETL frameworks for legacy oilfield systems
-- 📐 Data models aligned with industry standards
+My role is centered on designing systems, leading multidisciplinary teams, 
+and guiding organizations toward AI-ready operational models.
 
 ---
 
-## ⚙ Technical Stack
+## 🏗 What I Focus On
 
-**Languages & Tools**  
-Python • SQL • Pandas • PostgreSQL • Docker • Git  
-
-**Data Engineering**  
-ETL Pipelines • Data Modeling • API Design • Data Cleaning  
-
-**Domain**  
-Production Data • Subsurface Data • Time-Series Analysis • Digital Oilfield Systems  
+🔹 Enterprise Data Architecture for Energy Companies  
+🔹 Digital Oilfield System Design  
+🔹 AI Adoption & Governance in Industrial Environments  
+🔹 Production & Subsurface Data Strategy  
+🔹 Cross-functional Technical Leadership  
+🔹 Consulting on Digital Transformation Roadmaps  
 
 ---
 
-## 🎯 Vision
+## 🧠 Philosophy
 
-Bridging petroleum engineering and artificial intelligence  
-to accelerate digital transformation in Oil & Gas.
+Technology alone does not transform an organization.  
+Architecture, governance, and leadership do.
+
+Digital transformation in Oil & Gas requires aligning:
+- Data structures
+- Operational workflows
+- AI capabilities
+- Organizational culture
+
+My work focuses on building that alignment.
+
+---
+
+## 📊 Areas of Strategic Impact
+
+• Designing AI-ready data ecosystems  
+• Standardizing fragmented operational datasets  
+• Leading technical teams through system modernization  
+• Translating petroleum engineering challenges into scalable digital systems  
+• Bridging executive vision with technical execution  
+
+---
+
+## 🌍 Vision
+
+To help energy organizations transition from legacy, siloed systems  
+to intelligent, integrated, AI-driven operational environments.
 
 ---
 
